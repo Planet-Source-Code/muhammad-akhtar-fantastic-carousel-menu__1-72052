@@ -1,0 +1,18 @@
+<thumbnails>
+	<thumbnail filename="Products.png" label="Manage Products" url="Products" />
+	<thumbnail filename="Product List.png" label="Accounts Product List" url="Product List" />
+	<thumbnail filename="Accounts.png" label="Manage Accounts" url="Accounts" />
+	<thumbnail filename="Purchase.png" label="Purchase History" url="Purchase" />
+	<thumbnail filename="Add Payment.png" label="Add Payment" url="Add Payment" />
+	<thumbnail filename="Sales.png" label="Sales History" url="Sales History" />
+	<thumbnail filename="Add Receipt.png" label="Add Receipt" url="Add Receipt" />
+	<thumbnail filename="Cash.png" label="Cash History" url="Cash" />
+	<thumbnail filename="Cheque.png" label="Cheque History" url="Cheque" />
+	<thumbnail filename="Bonifiche.png" label="Bonifiche History" url="Bonifiche" />
+	<thumbnail filename="Expences.png" label="Expences History" url="Expences" />
+	<thumbnail filename="Reminders.png" label="Reminders" url="Reminders" />
+	<thumbnail filename="MasterLedger.png" label="Master / Ledger Report" url="Master/Ledger" />
+	<thumbnail filename="SearchSerial.png" label="Search Serial" url="Search Serial" />
+	<thumbnail filename="Magazine.png" label="View Magazine" url="Magazine" />
+	<thumbnail filename="ProfitLoss.png" label="Profit / Loss Report" url="Profit/Loss" />
+</thumbnails>

@@ -1,0 +1,15 @@
+Hi fellows..
+to set icons, edit labels and action command
+follow me....
+go to the icons folder and edit icons.xml
+
+Example: <thumbnail filename="Products.png" label="Manage Products" url="Products" />
+	Icons you want to set goes here thumbnail filename="youricon.png"
+	label="Hi your mouse is over me"
+	url="Hi you clicked me"
+
+I am here at planet source code from last 6 years and really this site rocks, either you are here to 
+learn or share.
+
+Hope you guys like it and use it but dont forget to vote..
+thanks in advance
